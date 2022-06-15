@@ -1,15 +1,3 @@
----
-id: 11
-title: Home
-date: '2022-01-08T15:45:52-05:00'
-author: phuang1
-layout: page
-guid: 'https://penghuang.com/?page_id=11'
-total_sidebar_layout:
-    - no_sidebar_condensed
-total_hide_title:
-    - ''
----
 
 ![](https://penghuang.com/WordPress/wp-content/uploads/2022/01/Huang_Peng-01Oct19-024-200x300.jpg)
 
