@@ -24,18 +24,13 @@
         {% if site.description or site.github.project_tagline %}
           <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% endif %}
-
-        <div class="dropdown">
-          <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton2" data-bs-toggle="dropdown" aria-expanded="false">
-            Dropdown button
-          </button>
-          <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="dropdownMenuButton2">
-            <li><a class="dropdown-item active" href="ndex.html"><strong>Home</strong></a></li>
-            <li><a class="dropdown-item" href="research.html"><strong>Research</strong></a></li>
-            <li><a class="dropdown-item" href="teaching.html"><strong>Teaching</strong></a></li>
-          </ul>
-        </div>
-
+        <nav>
+            <ul>
+              <li><a href="index.html"> <strong>Home</strong></a></li>
+              <li><a href="research.html"> <strong>Research</strong></a></li>
+              <li><a href="teaching.html"> <strong>Teaching</strong></a></li>
+            </ul>
+        </nav>
       </header>
       <section>
 
