@@ -1,10 +1,11 @@
+# Research
 
 ## Research Interests
 
-  * Platform ecosystems  
-  * Technology and innovation  
-  * Knowledge sharing communities  
-  * Cybersecurity management
+* Platform ecosystems  
+* Technology and innovation  
+* Knowledge sharing communities  
+* Cybersecurity management
 
 ## Selected Journal Publications
 
