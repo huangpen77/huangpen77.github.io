@@ -1,6 +1,3 @@
-layout: page
-title: "Research"
-permalink: https://huangpen77.github.io/research
 
 ## Research Interests
 
