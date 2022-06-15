@@ -1,6 +1,6 @@
 # About Me
 
-![](./uploads/2022/01/Huang_Peng-01Oct19-024-200x300.jpg)
+![portrait](./uploads/2022/01/Huang_Peng-01Oct19-024-200x300.jpg)
 
 Dr. Peng Huang  
 \[[Curriculum Vitae](./uploads/2022/02/cv.pdf)\]

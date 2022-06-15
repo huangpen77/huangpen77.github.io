@@ -20,12 +20,12 @@
 9. Huang, Peng, Marco Ceccagnoli, Chris Forman, and D. J. Wu (2013), “Appropriability Mechanisms and the Platform Partnership Decision: Evidence from Enterprise Software,” ***Management Science***, 59(1), 102–121. \[[PDF](./uploads/2022/01/102.full_.pdf)\] [[URL]](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.1120.1618)
 10. Ceccagnoli, Marco, Chris Forman, Peng Huang, and D. J. Wu (2012), “Cocreation of Value in a Platform Ecosystem: The Case of Enterprise Software,” ***MIS Quarterly***, 36(1), 263–290. \[[PDF](./uploads/2022/01/71145739.pdf)\] [[URL]](https://misq.umn.edu/cocreation-of-value-in-a-platform-ecosystem-the-case-of-enterprise-software.html)
 11. Huang, Peng, Nicholas H. Lurie, and Sabyasachi Mitra (2009), “Searching for Experience on the Web: An Empirical Examination of Consumer Behavior for Search and Experience Goods,” ***Journal of Marketing***, 73(2), 55–69. \[[PDF](./uploads/2022/01/jmkg.73.2.55.pdf)\] [[URL]](https://journals.sagepub.com/doi/10.1509/jmkg.73.2.55)
- 
+
 ## Articles in Practitioner Journals
 
 1. Huang, Peng, Ali Tafti, and Sunil Mithas (2018), “The Secret to Successful Knowledge Seeding,” ***MIT Sloan Management Review***, 59(3), 10–13. \[[PDF](./uploads/2022/01/Secret_to_Successful_Knowledge_Seeding.pdf)\] [[URL]](https://sloanreview.mit.edu/article/the-secret-to-successful-knowledge-seeding/)
 2. Ceccagnoli, Marco, Chris Forman, Peng Huang, and D. J. Wu (2014), “Digital Platforms: When Is Participation Valuable?” ***Communications of the ACM***, 57(2), 38–39. \[[PDF](./uploads/2022/01/p38-ceccagnoli.pdf)\] [[URL]](https://dl.acm.org/doi/10.1145/2556940)
- 
+
 ## Book Chapters/Monographs
 
 * Huang, Peng, Atreyi Kankanhalli, Harris Kyriakou, and Rajiv Sabherwal, “Knowledge Management,” in ***MIS Quarterly Research Curations***, Ashley Bush and Arun Rai, Eds., April 30, 2018. [[URL]](https://misq.umn.edu/research-curations)
