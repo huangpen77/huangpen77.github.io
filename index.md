@@ -28,8 +28,8 @@ Dr. Peng Huang is an Associate Professor of Information Systems at the Robert H.
 ## Education
 
 <i class='fa fa-graduation-cap'></i> &nbsp Ph.D., Information Technology Management, Georgia Institute of Technology  
-<i class='fa fa-graduation-cap'> &nbsp Master, Industrial Management (with *magna cum laude*), Katholieke Universiteit Leuven  
-<i class='fa fa-graduation-cap'> &nbsp B.S., Electrical Engineering, Fudan University
+<i class='fa fa-graduation-cap'></i> &nbsp Master, Industrial Management (with *magna cum laude*), Katholieke Universiteit Leuven  
+<i class='fa fa-graduation-cap'></i> &nbsp B.S., Electrical Engineering, Fudan University
 
 ## Contact Me
 
