@@ -20,15 +20,15 @@ Dr. Peng Huang is an Associate Professor of Information Systems at the Robert H.
 
 ## Academic Appointments
 
- Associate Professor (with tenure), Robert H. Smith School of Business, University of Maryland, August 2018-Present  
- Assistant Professor, Robert H. Smith School of Business, University of Maryland, August 2010–July 2018  
- Visiting Professor, Faculty of Business and Economics, Georg-August-Universität Göttingen, July 2017-August 2017
+- Associate Professor (with tenure), Robert H. Smith School of Business, University of Maryland, August 2018-Present  
+- Assistant Professor, Robert H. Smith School of Business, University of Maryland, August 2010–July 2018  
+- Visiting Professor, Faculty of Business and Economics, Georg-August-Universität Göttingen, July 2017-August 2017
 
 ## Education
 
- Ph.D., Information Technology Management, Georgia Institute of Technology  
- Master, Industrial Management (with *magna cum laude*), Katholieke Universiteit Leuven  
- B.S., Electrical Engineering, Fudan University
+- Ph.D., Information Technology Management, Georgia Institute of Technology  
+- Master, Industrial Management (with *magna cum laude*), Katholieke Universiteit Leuven  
+- B.S., Electrical Engineering, Fudan University
 
 ## Contact Me
 
