@@ -4,4 +4,4 @@ description: 'Stay hungry. Stay foolish.'
 remote_theme: pages-themes/modernist@v0.2.0
 plugins:
 - jekyll-remote-theme
-show_downloads: False
+show_downloads: false
