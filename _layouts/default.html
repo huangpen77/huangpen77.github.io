@@ -24,13 +24,32 @@
         {% if site.description or site.github.project_tagline %}
           <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% endif %}
-        <nav>
+<!--         <nav>
             <ul>
               <li><a href="index.html"> <strong>Home</strong></a></li>
               <li><a href="research.html"> <strong>Research</strong></a></li>
               <li><a href="teaching.html"> <strong>Teaching</strong></a></li>
             </ul>
+        </nav> -->
+
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+          
+          <button class="navbar-toggler" type="button" data-trigger="#main_nav">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="navbar-collapse" id="main_nav">
+            <div class="offcanvas-header mt-3">  
+              <button class="btn btn-outline-danger btn-close float-right"> &times Close </button>
+              <h5 class="py-2 text-white">Main navbar</h5>
+            </div>
+            <ul class="navbar-nav">
+              <li class="nav-item active"> <a class="nav-link" href="#">Home </a> </li>
+              <li class="nav-item"><a class="nav-link" href="#"> Research </a></li>
+              <li class="nav-item"><a class="nav-link" href="#"> Teaching </a></li>
+            </ul>
+          </div> <!-- navbar-collapse.// -->
         </nav>
+
       </header>
       <section>
 
