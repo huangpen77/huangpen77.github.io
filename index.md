@@ -1,8 +1,8 @@
 # About Me
-![](https://penghuang.com/WordPress/wp-content/uploads/2022/01/Huang_Peng-01Oct19-024-200x300.jpg)
+![](https://huangpen77.github.io/uploads/2022/01/Huang_Peng-01Oct19-024-200x300.jpg)
 
 Dr. Peng Huang  
-\[[Curriculum Vitae](https://penghuang.com/WordPress/wp-content/uploads/2022/02/cv.pdf)\]
+\[[Curriculum Vitae](https://huangpen77.github.io/uploads/2022/02/cv.pdf)\]
 
 Associate Professor  
 [Department of Decision, Operations, and Information Technologies](https://www.rhsmith.umd.edu/faculty-research/academic-departments/decision-operations-information-technologies)  
