@@ -1,6 +1,4 @@
 
-
-
 ## Research Interests
 
   * Platform ecosystems  
