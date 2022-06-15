@@ -1,4 +1,4 @@
-## University of Maryland
+## Courses at University of Maryland
 
   BMGT 301 – Introduction to Information Systems  
   BMGT 302 – Designing Applications for Business Analytics  
