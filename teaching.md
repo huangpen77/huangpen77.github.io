@@ -1,5 +1,3 @@
-# Teaching
-
 ## University of Maryland
 
   BMGT 301 – Introduction to Information Systems  
