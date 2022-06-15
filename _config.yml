@@ -1,3 +1,7 @@
 url: 'https://huangpen77.github.io/'
 title: 'Peng Huang @ UMD'
 description: 'Stay hungry. Stay foolish.'
+header_pages:
+  - index.md
+  - research.md
+  - teaching.md
