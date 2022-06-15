@@ -1,4 +1,3 @@
-
 ## Research Interests
 
   Platform ecosystems  
