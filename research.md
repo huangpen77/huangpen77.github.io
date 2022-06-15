@@ -3,10 +3,10 @@
 
 ## Research Interests
 
-  Platform ecosystems  
-  Technology and innovation  
-  Knowledge sharing communities  
-  Cybersecurity management
+  * Platform ecosystems  
+  * Technology and innovation  
+  * Knowledge sharing communities  
+  * Cybersecurity management
 
 ## Selected Journal Publications
 
@@ -29,4 +29,4 @@
  
 ## Book Chapters/Monographs
 
- Huang, Peng, Atreyi Kankanhalli, Harris Kyriakou, and Rajiv Sabherwal, “Knowledge Management,” in ***MIS Quarterly Research Curations***, Ashley Bush and Arun Rai, Eds., April 30, 2018. [[URL]](https://misq.umn.edu/research-curations)
+* Huang, Peng, Atreyi Kankanhalli, Harris Kyriakou, and Rajiv Sabherwal, “Knowledge Management,” in ***MIS Quarterly Research Curations***, Ashley Bush and Arun Rai, Eds., April 30, 2018. [[URL]](https://misq.umn.edu/research-curations)
