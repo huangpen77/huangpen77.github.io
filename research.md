@@ -1,16 +1,3 @@
----
-id: 12
-title: Research
-date: '2022-01-08T15:45:52-05:00'
-author: phuang1
-layout: page
-guid: 'https://penghuang.com/?page_id=12'
-total_sidebar_layout:
-    - no_sidebar_condensed
-total_hide_title:
-    - ''
----
-
 ## Research Interests
 
   Platform ecosystems  
@@ -39,4 +26,4 @@ total_hide_title:
  
 ## Book Chapters/Monographs
 
- Huang, Peng, Atreyi Kankanhalli, Harris Kyriakou, and Rajiv Sabherwal, “Knowledge Management,” in ***MIS* *Quarterly Research Curations****,* Ashley Bush and Arun Rai, Eds., April 30, 2018. [[URL]](https://misq.umn.edu/research-curations)
+ Huang, Peng, Atreyi Kankanhalli, Harris Kyriakou, and Rajiv Sabherwal, “Knowledge Management,” in ***MIS Quarterly Research Curations***, Ashley Bush and Arun Rai, Eds., April 30, 2018. [[URL]](https://misq.umn.edu/research-curations)
