@@ -1,37 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Website
 
-You can use the [editor on GitHub](https://github.com/huangpen77/huangpen77.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huangpen77/huangpen77.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Biographical Sketch
+Dr. Peng Huang is an Associate Professor of Information Systems at the Robert H. Smith School of Business, University of Maryland, College Park. He holds a Ph.D. in Information Technology Management from the Georgia Institute of Technology. His research interests include platform ecosystems, technology and innovation, knowledge sharing communities, and cybersecurity management. His recent work has appeared in journals such as Management Science, Information Systems Research, MIS Quarterly, Journal of Marketing, Journal of Management Information Systems, and MIT Sloan Management Review, among others. He received the Sandra Slaughter Early Career Award from the Information Systems Society, the Kauffman Dissertation Fellowship from the Ewing Marion Kauffman Foundation, the Ashford Watson Stalnaker Memorial Prize from Georgia Tech, and multiple Best Conference Paper Awards at the International Conference on Information Systems.
