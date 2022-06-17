@@ -216,14 +216,14 @@
 <!--                      <object data="assets/pdf/cv.pdf" type="application/pdf" width="100%" height="800px"> 
                         <p>It appears you don't have a PDF plugin for this browser. No biggie... you can <a href="assets/pdf/cv.pdf">click here to download the PDF file.</a></p>  
                      </object> -->
-                     <div id="adobe-dc-view" style="height: 600px; width: 500px;"></div>
+                     <div id="adobe-dc-view" style="height: 650px; width: 500px;"></div>
                      <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
                      <script type="text/javascript">
                          document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
                              var adobeDCView = new AdobeDC.View({clientId: "975ed48cfcaf4baca2cddcee814a6b2c", divId: "adobe-dc-view"});
                              adobeDCView.previewFile({
                                  content:{location: {url: "assets/pdf/cv.pdf"}},
-                                 metaData:{fileName: "Bodea Brochure.pdf"}
+                                 metaData:{fileName: "huang_cv.pdf"}
                              }, {embedMode: "SIZED_CONTAINER"});
                          });
                      </script>
